@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RiskAnalysis.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:56211;http://localhost:56214"
+    }
+  }
+}
