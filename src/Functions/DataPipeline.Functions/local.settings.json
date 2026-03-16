@@ -1,0 +1,13 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "CosmosDbEndpoint": "https://YOUR_COSMOS_DB.cosmos.azure.com:443/",
+    "CosmosDbKey": "YOUR_COSMOS_DB_KEY"
+  },
+  "Host": {
+    "LocalHttpPort": 7072,
+    "CORS": "*"
+  }
+}
